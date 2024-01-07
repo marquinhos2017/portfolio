@@ -1,5 +1,6 @@
 import Projeto from '../../components/Projeto'
 import Titulo from '../../components/Titulo'
+import React from 'react';
 
 import { Lista } from './styles'
 const Projetos = () => (

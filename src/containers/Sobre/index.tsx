@@ -1,6 +1,7 @@
 import Titulo from '../../components/Titulo'
 import Paragrafo from '../../components/Paragrafo'
 import { GithubSecao } from './styles'
+import React from 'react';
 
 const Sobre = () => (
     <section>

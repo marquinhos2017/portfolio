@@ -1,6 +1,7 @@
 import Paragrafo from '../Paragrafo'
 import Titulo from '../Titulo'
 import { Card, LinkBotao } from './styles'
+import React from 'react';
 
 const Projeto = () => (
     <Card>

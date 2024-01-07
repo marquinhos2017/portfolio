@@ -1,4 +1,5 @@
 import { FotoPerfil } from './styles'
+import React from 'react';
 
 {
     FotoPerfil

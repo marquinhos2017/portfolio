@@ -8,8 +8,8 @@ export const BotaoTema = styled.button`
     font-size: 10;
     font-weight: bold;
     padding: 8px;
-    color: white;
-    background-color: black;
+    color: ${props => props.theme.cordeFundo};
+    background-color: ${props => props.theme.cordeFundoBotao};
     border-radius: 12px;
     cursor: pointer;
 `
